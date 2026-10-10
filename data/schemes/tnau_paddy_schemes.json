@@ -1,0 +1,1351 @@
+{
+ "source_url": "https://agritech.tnau.ac.in/expert_system/paddy/Schemes.html",
+ "source_title": "TNAU Agritech Portal - Paddy expert system: Schemes",
+ "retrieved": "2026-10-10",
+ "vintage": "Compiled by TNAU from material dated roughly 2007-2011 (the page cites IAMWARM phases 2007-10 and the 2010-11 minimum support price). Amounts, scheme names, eligibility and officers may have changed; confirm with the Agriculture / Agricultural Engineering department before applying.",
+ "method": "Table-aware dump of the page, per-section LLM extraction, independent fidelity and structure audits, and a completeness critic; evidence quotes and numbers then checked programmatically against the page text.",
+ "post_fixes": [
+  "U+FFFD occurrences remaining after scrub: 0",
+  "tn-agricultural-mechanisation-programme.eligibility: 'Subsidy assistance is provided to farmers for procuring Agricultural Machinery and implements' -> None  (page has no eligibility row; value was copied from 'Details of Works')",
+  "tn-national-agriculture-development-programme-nadp.eligibility: 'Farmers (subsidy assistance is provided to farmers for purchasing newly developed agricultural implements and conventional machinery / implements)' -> None  (page has no eligibility row; value was copied from the benefits text)",
+  "tn-iamwarm.funding_pattern: '100% subsidy (or) Rs.6,000/- (beneficiary category not stated on the page)' -> None  (was the benefit text, not a funding pattern)",
+  "cs-icdp-rice.contact_officers: \"District Agriculture Officer (selection of beneficiaries to be done through the officer's recommendation)\" -> None  (page names no contact; the selection sentence is already in how_to_apply)",
+  "tn-nabard-assisted-rain-water-harvesting-programme.sponsor: 'NABARD' -> 'NABARD assisted (as named on the page)'  (page only says 'NABARD assisted')",
+  "tn-cereals-development-programme-paddy-macro-management-mode.reference_url: 'https://agritech.tnau.ac.in/expert_system/paddy/Schemes.html' -> None  (was the extracted page itself)"
+ ],
+ "records": [
+  {
+   "id": "tn-seed-multiplication-scheme-of-paddy",
+   "name": "Seed Multiplication Scheme of Paddy",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Seed",
+   "parent_programme": "Assistance to the farmers for quality seed production",
+   "sponsor": null,
+   "implementing_agency": "Department of Agriculture",
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "Paddy seed multiplication scheme, listed under assistance to the farmers for quality seed production, in which farmers who produce and supply seeds to the Department of Agriculture on Contract basis can enroll and register their seed farms. An incentive is provided for all the seeds produced by the farmers, with a Paddy Premium of Rs.2/- per Kg of seed for the production of Certified class seeds.",
+   "benefits": "In order to encourage the farmers and to offset the special efforts taken by them, incentive is provided for all the seeds produced by the farmers. Paddy Premium for the production of Certified class seeds: Rs.2/- per Kg of seed.",
+   "eligibility": "All farmers who produce and supply the seeds to the Department of Agriculture on Contract basis are eligible to enroll and register their seed farms under this programme. Preference will be given to farm women groups, Farmers Interest Groups. The required source seed will be supplied by the Department of Agriculture through the Agricultural Extension Centres on payment. The farmers should follow the guidelines given by the field level functionaries / Seed Certification officers to maintain the Quality.",
+   "how_to_apply": "Eligible farmers enroll and register their seed farms under this programme.",
+   "contact_officers": "Assistant Agricultural officer at the Village Level; Assistant Seed Officer / Deputy Agricultural Officer / Agricultural Officer at the Block Level; The Assistant Director of Agriculture at the Block Level; The Joint Director of Agriculture at the District Level",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Paddy Premium for the production of Certified class seeds",
+     "benefit": "Rs.2/- per Kg of seed",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "9-19",
+   "evidence": [
+    "Paddy Premium for the production of Certified class seeds Rs.2/- per Kg of seed",
+    "incentive is provided for all the seeds produced by the farmers",
+    "All farmers who produce and supply the seeds to the Department of Agriculture on Contract basis are eligible to enroll and register their seed farms under this programme",
+    "Preference will be given to farm women groups, Farmers Interest Groups."
+   ],
+   "extracted_from": "tn-seed-multiplication"
+  },
+  {
+   "id": "tn-cereals-development-programme-paddy-macro-management-mode",
+   "name": "Cereals Development Programme - Paddy (Macro Management Mode)",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Crop productivity",
+   "parent_programme": "Assistance to farmers for increasing the crop productivity Macro Management Mode Schemes",
+   "sponsor": null,
+   "implementing_agency": null,
+   "funding_pattern": null,
+   "project_area": "Demonstrations on System of Rice Intensification: all the districts of the state except Chennai, The Nilgiris and NFSM rice implementing districts of Nagapattinam, Tiruvarur, Sivagangai, Ramanathapuram and Pudukkottai.",
+   "summary": "Tamil Nadu's Cereals Development Programme for paddy, listed under the Macro Management Mode schemes for increasing crop productivity, has three components: a seed subsidy through the seed village concept, demonstrations on System of Rice Intensification, and Integrated Pest Management demonstration cum training (Farmers Field School). The page lists a subsidy of Rs.5 per kg of paddy seeds or 50% cost whichever is less, Rs 3000 per demonstration of 0.4 Ha each, and a lumpsum provision of Rs.17,000 for the training.",
+   "benefits": "Quality seed Distribution through seed village concept: A subsidy of Rs.5 per kg of paddy seeds will be allowed in the sale price at the time of purchase at the Agricultural Extension Centers or 50% cost whichever is less. Demonstrations on System of Rice Intensification: Assistance for improved seed, Conoweeder, Marker, Bio fertilizers and Micro Nutrient Mixture - Subsidy of Rs 3000 per demonstration of 0.4 Ha each. Integrated Pest Management Demonstration cum Training @30 farmers per training (Farmers Field School) - A lumpsum provision of Rs.17,000 includes Honororium, Training material and conduct of field days.",
+   "eligibility": "Quality seed Distribution through seed village concept: All farmers are eligible to avail the subsidy under this scheme. Preference will be given to Small/Marginal women farmers and 30% flow will be assured to SC/ST. Demonstrations on System of Rice Intensification: This Scheme is in operation in all the districts of the state except Chennai, The Nilgiris and NFSM rice implementing districts of Nagapattinam, Tiruvarur, Sivagangai, Ramanathapuram and Pudukkottai.",
+   "how_to_apply": null,
+   "contact_officers": "Quality seed Distribution through seed village concept: Assistant Agricultural officer at the Village Level. Demonstrations on System of Rice Intensification: Assistant Seed Officer / Deputy Agricultural Officer / Agricultural Officer at the Block Level. Integrated Pest Management Demonstration cum Training: The Assistant Director of Agriculture at the Block Level. The Joint Director of Agriculture at the District Level.",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Quality seed Distribution through seed village concept",
+     "benefit": "A subsidy of Rs.5 per kg of paddy seeds will be allowed in the sale price at the time of purchase at the Agricultural Extension Centers or 50% cost whichever is less",
+     "eligibility": "All farmers are eligible to avail the subsidy under this scheme. Preference will be given to Small/Marginal women farmers and 30% flow will be assured to SC/ST",
+     "officer": "Assistant Agricultural officer at the Village Level"
+    },
+    {
+     "name": "Demonstrations on System of Rice Intensification",
+     "benefit": "Assistance for improved seed, Conoweeder, Marker, Bio fertilizers and Micro Nutrient Mixture - Subsidy of Rs 3000 per demonstration of 0.4 Ha each",
+     "eligibility": "This Scheme is in operation in all the districts of the state except Chennai, The Nilgiris and NFSM rice implementing districts of Nagapattinam, Tiruvarur, Sivagangai, Ramanathapuram and Pudukkottai",
+     "officer": "Assistant Seed Officer / Deputy Agricultural Officer / Agricultural Officer at the Block Level"
+    },
+    {
+     "name": "Integrated Pest Management Demonstration cum Training (Farmers Field School)",
+     "benefit": "@30 farmers per training - A lumpsum provision of Rs.17,000 includes Honororium, Training material and conduct of field days",
+     "eligibility": null,
+     "officer": "The Assistant Director of Agriculture at the Block Level. The Joint Director of Agriculture at the District Level"
+    }
+   ],
+   "source_lines": "20-24",
+   "evidence": [
+    "Rs.5 per kg of paddy seeds will be allowed in the sale price at the time of purchase at the Agricultural Extension Centers or 50% cost whichever is less",
+    "All farmers are eligible to avail the subsidy under this scheme. Preference will be given to Small/Marginal women farmers and 30% flow will be assured to SC/ST",
+    "Subsidy of Rs 3000 per demonstration of 0.4 Ha each",
+    "A lumpsum provision of Rs.17,000 includes Honororium, Training material and conduct of field days"
+   ],
+   "extracted_from": "tn-cereals-dev"
+  },
+  {
+   "id": "tn-iamwarm",
+   "name": "Tamil Nadu Agricultural Modernization and Water bodies Restoration Management (IAMWARM)",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Land and water",
+   "parent_programme": null,
+   "summary": "IAMWARM (Tamil Nadu Agricultural Modernization and Water bodies Restoration Management) is listed on the page under Tamil Nadu agriculture schemes; the one component given is a Paddy SRI demonstration (1 ha) at 100% subsidy (or) Rs.6,000/-. All farmers through Water Users’ Association in Phase I (2007-08), Phase II (2008-09) and Phase III (2009-10) are benefited under this scheme.",
+   "benefits": "Demonstrations Paddy SRI (1 ha): 100% subsidy (or) Rs.6,000/- (beneficiary category not stated on the page)",
+   "eligibility": "All farmers through Water Users’ Association in the respective phase I (2007-08), Phase II (2008-09), Phase III (2009-10) are benefited under this scheme.",
+   "how_to_apply": null,
+   "contact_officers": "Assistant Agricultural officer at the Village Level; Assistant seed officer /Deputy Agricultural Officer / Agricultural Officer at the Block Level; The Assistant Director of Agriculture at the Block Level; The Joint Director of Agriculture at the District Level",
+   "implementing_agency": null,
+   "sponsor": null,
+   "funding_pattern": null,
+   "project_area": null,
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Demonstrations Paddy SRI (1 ha)",
+     "benefit": "100% subsidy (or) Rs.6,000/- (beneficiary category not stated on the page)",
+     "eligibility": "All farmers through Water Users’ Association in the respective phase I (2007-08), Phase II (2008-09), Phase III (2009-10) are benefited under this scheme.",
+     "officer": "Assistant Agricultural officer at the Village Level; Assistant seed officer /Deputy Agricultural Officer / Agricultural Officer at the Block Level; The Assistant Director of Agriculture at the Block Level; The Joint Director of Agriculture at the District Level"
+    }
+   ],
+   "source_lines": "25-29",
+   "evidence": [
+    "Demonstrations Paddy SRI (1 ha ) 100% subsidy (or) Rs.6,000/-",
+    "All farmers through Water Users’ Association in the respective phase I (2007-08), Phase II (2008-09), Phase III (2009-10) are benefited under this scheme.",
+    "Tamil Nadu Agricultural Modernization and Water bodies Restoration Management (IAMWARM )"
+   ],
+   "extracted_from": "tn-iamwarm"
+  },
+  {
+   "id": "tn-seed-village-scheme",
+   "name": "Seed Village Scheme",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Seed",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "project_area": null,
+   "summary": "The Seed Village Scheme is a Tamil Nadu agriculture scheme under which Foundation / Certified seeds of Paddy are distributed at 50% cost for the production of quality seeds by farmers. It also covers a three-day training on seed production technology for farmers who receive seeds from the department at 50% cost, and the supply of storage bins to farmers.",
+   "benefits": "Distribution of Foundation / Certified seeds of Paddy at 50% cost for the production of quality seeds by farmers. Three Days Training on seed production technology in three important phases of the crops to farmers who receive seeds from the department @ 50% cost for production of quality Seeds. 50 farmers per training totally 8000 training per year. Supply of Storage Bin to the farmers, with two sets of amounts: first set Rs.3000/- for 20 qtl bin and Rs.1500/- for 10 qtl. bin (or) 33% cost of bin; second set Rs.2000/- for 20 qtl bin and Rs.1000/- for 10 qtl. bin (or) 25% cost of bin; beneficiary category not stated on the page.",
+   "eligibility": "All the farmers in the State who are willing to produce quality seeds from their lands for their own use and for distribution to other farmers.",
+   "funding_pattern": null,
+   "how_to_apply": null,
+   "contact_officers": "Seed distribution: Assistant Agricultural officer at the Village Level. Training: Assistant seed officer /Deputy Agricultural Officer / Agricultural Officer at the Block Level. Storage bin: The Assistant Director of Agriculture at the Block Level (listed with the first set of amounts); The Joint Director of Agriculture at the District Level (listed with the second set of amounts).",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Distribution of Foundation / Certified seeds of Paddy",
+     "benefit": "Distribution of Foundation / Certified seeds of Paddy at 50% cost for the production of quality seeds by farmers",
+     "eligibility": "All the farmers in the State who are willing to produce quality seeds from their lands for their own use and for distribution to other farmers.",
+     "officer": "Assistant Agricultural officer at the Village Level"
+    },
+    {
+     "name": "Three Days Training on seed production technology",
+     "benefit": "Three Days Training on seed production technology in three important phases of the crops to farmers who receive seeds from the department @ 50% cost for production of quality Seeds. 50 farmers per training totally 8000 training per year.",
+     "eligibility": null,
+     "officer": "Assistant seed officer /Deputy Agricultural Officer / Agricultural Officer at the Block Level"
+    },
+    {
+     "name": "Supply of Storage Bin to the farmers",
+     "benefit": "Two sets of amounts are given. First set: Rs.3000/- for 20 qtl bin and Rs.1500/- for 10 qtl. bin (or) 33% cost of bin. Second set: Rs.2000/- for 20 qtl bin and Rs.1000/- for 10 qtl. bin (or) 25% cost of bin; beneficiary category not stated on the page.",
+     "eligibility": null,
+     "officer": "The Assistant Director of Agriculture at the Block Level (listed with the first set); The Joint Director of Agriculture at the District Level (listed with the second set)"
+    }
+   ],
+   "source_lines": "30-34",
+   "evidence": [
+    "Paddy at 50% cost for the production of quality seeds by farmers",
+    "All the farmers in the State who are willing to produce quality seeds from their lands for their own use and for distribution to other farmers",
+    "50 farmers per training totally 8000 training per year",
+    "Supply of Storage Bin to the farmers. Rs.3000/- for 20 qtl bin and Rs.1500/- for 10 qtl. bin (or) 33% cost of bin"
+   ],
+   "extracted_from": "tn-seed-village"
+  },
+  {
+   "id": "tn-national-food-security-mission-rice",
+   "name": "National Food Security Mission Rice",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Crop productivity",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "funding_pattern": null,
+   "project_area": "Nagapattinam, Pudukkottai, Ramnad, Sivaganga and Tiruvarur districts",
+   "summary": "National Food Security Mission Rice is operated in Nagapattinam, Pudukkottai, Ramnad, Sivaganga and Tiruvarur districts. It gives assistance for demonstrations on improved package of practice, SRI and hybrid rice technology, and for hybrid rice seeds, micro nutrients, conoweeder and other farm implements, plant protection chemicals and bio-pesticides, and transplanters.",
+   "benefits": "Inputs for the Demonstration on improved package of practice @ Rs.2500/- Demo of 0.4 ha or 50% cost whichever is less; Inputs for the Demonstration on SRI @ Rs.3000/- Demo of 0.4 ha or 50% cost whichever is less; Inputs for the Demonstration on Hybrid rice technology @ Rs.3000/- demo of 0.4 ha or 50% cost whichever is less; Production incentive Hybrid rice seeds @ Rs.1000/-qtl; Distribution subsidy of Hybrid rice seeds @ Rs.2000/-qtl or 50% cost whichever is less; Incentives for Micro Nutrients @ Rs.500/-ha or 50% cost whichever is less; Incentives for Conoweeder and other Farm Implements @ Rs.3000/- implement per farmer or 50% cost whichever is less; Plant Protection Chemicals and Bio-Pesticides @ of 50% subsidy or Rs.500/- ha whichever is less; Distribution of Transplanter at Rs.70,000/-(or) 50% cost whichever is less",
+   "eligibility": "All farmers in the National Food Security Mission Rice districts. 33% of the allocation to SF / MF / Women farmers. 16% of the total allocation to SC farmers and 8% to ST farmers. Assistance limited to five hectare per farmer.",
+   "how_to_apply": null,
+   "contact_officers": "Assistant Agricultural officer at the Village Level; Assistant Seed Officer / Deputy Agricultural Officer / Agricultural Officer at the Block Level; The Assistant Director of Agriculture at the Block Level; The Joint Director of Agriculture at the District Level",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Inputs for the Demonstration on improved package of practice",
+     "benefit": "@ Rs.2500/- Demo of 0.4 ha or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Inputs for the Demonstration on SRI",
+     "benefit": "@ Rs.3000/- Demo of 0.4 ha or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Inputs for the Demonstration on Hybrid rice technology",
+     "benefit": "@ Rs.3000/- demo of 0.4 ha or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Production incentive Hybrid rice seeds",
+     "benefit": "@ Rs.1000/-qtl",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Distribution subsidy of Hybrid rice seeds",
+     "benefit": "@ Rs.2000/-qtl or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Incentives for Micro Nutrients",
+     "benefit": "@ Rs.500/-ha or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Incentives for Conoweeder and other Farm Implements",
+     "benefit": "@ Rs.3000/- implement per farmer or 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Plant Protection Chemicals and Bio-Pesticides",
+     "benefit": "@ of 50% subsidy or Rs.500/- ha whichever is less.",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Distribution of Transplanter",
+     "benefit": "at Rs.70,000/-(or) 50% cost whichever is less",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "35-36",
+   "evidence": [
+    "National food security mission rice operated in Nagapattinam,Pudukkottai, Ramnad, Sivaganga and Tiruvarur districts",
+    "Inputs for the Demonstration on SRI @ Rs.3000/- Demo of 0.4 ha or 50% cost whichever is less",
+    "Distribution of Transplanter at Rs.70,000/-(or) 50% cost whichever is less",
+    "All farmers in the National Food Security Mission Rice districts. 33% of the allocation to SF / MF / Women farmers. 16% of the total allocation to SC farmers and 8% to ST farmers. Assistance limited to five hectare per farmer."
+   ],
+   "extracted_from": "tn-nfsm-rice"
+  },
+  {
+   "id": "tn-agricultural-mechanisation-programme",
+   "name": "Agricultural Mechanisation Programme",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Farm mechanisation",
+   "parent_programme": null,
+   "sponsor": null,
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "project_area": "All Districts (Except Chennai)",
+   "summary": "The Agricultural Mechanisation Programme provides subsidy assistance to farmers for procuring agricultural machinery and implements such as Tractors, Power Tillers, Self propelled Paddy Transplanters, Self propelled paddy reapers, Rotavator, Cultivator, Disc Plough, Chisel Plough etc. The subsidy is 25% of the cost of machinery / implements or the ceiling limit prescribed by Government of India for each machinery / implement, whichever is less, and the project area is All Districts (Except Chennai).",
+   "benefits": "25% of the cost of machinery / implements or the ceiling limit prescribed by Government of India for each machinery / implement, whichever is less.",
+   "eligibility": null,
+   "how_to_apply": "Approach the officers listed under 'Officer to be approached'.",
+   "contact_officers": "Assistant Executive Engineer, AED in the Revenue Division. Executive Engineer, AED in the District. Superintending Engineer, AED in the Region. Chief Engineer, Agricultural Engineering Department, Nandanam, Chennai-35. Phone 2435 2686 , 2435 2622",
+   "components": [
+    {
+     "name": "Tractors",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Power Tillers",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Self propelled Paddy Transplanters",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Self propelled paddy reapers",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Rotavator",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Cultivator",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Disc Plough",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Chisel Plough",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "reference_url": null,
+   "source_lines": "40-47",
+   "evidence": [
+    "Subsidy assistance is provided to farmers for procuring Agricultural Machinery and implements",
+    "25% of the cost of machinery / implements or the ceiling limit prescribed by Government of India for each machinery / implement, whichever is less.",
+    "All Districts (Except Chennai)",
+    "Tractors, Power Tillers, Self propelled Paddy Transplanters, Self propelled paddy reapers, Rotavator, Cultivator, Disc Plough, Chisel Plough"
+   ],
+   "extracted_from": "tn-mechanisation"
+  },
+  {
+   "id": "tn-land-development-scheme",
+   "name": "Land Development Scheme",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Farm mechanisation",
+   "parent_programme": null,
+   "implementing_agency": "Agricultural Engineering Department",
+   "sponsor": null,
+   "funding_pattern": null,
+   "project_area": "All Districts",
+   "summary": "The Land Development Scheme operates in all districts: the Agricultural Engineering Department hires out machinery to farmers as per Government approved hire charges and executes land shaping, land levelling, land reclamation, ploughing, puddling and paddy harvesting by combine harvester. Farmers of all categories are eligible, and machinery is allotted on priority basis.",
+   "benefits": "Benefits offered (Subsidy): Agricultural Engineering Department hires out machinery to farmers as per Government approved hire charges and executes the works: Land Shaping, Land Levelling, Land Reclamation, Ploughing, Puddling, Paddy Harvesting by Combine Harvester. Hire charges of Land Development Machinery (Rs. per hour- With Diesel): Tractor 265; Bulldozer 670; Tractor mounted Combine Harvester 780; Class crop Tiger Combine Harvesters rubber track type 1130.",
+   "eligibility": "Farmers of all categories",
+   "how_to_apply": "Approach the officers listed under 'Officer to be approached' (see contact officers). Time-limit for Implementation: Machinery are allotted on priority basis.",
+   "contact_officers": "Assistant Executive Engineer, AED in the Revenue Division. Executive Engineer, AED in District. Superintending Engineer, AED in the Region. Chief Engineer, Agricultural Engineering Department, Nandanam, Chennai-35. Phone 2435 2686, 2435 2622",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Land Shaping",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Land Levelling",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Land Reclamation",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Ploughing, Puddling",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Paddy Harvesting by Combine Harvester",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Tractor",
+     "benefit": "Hire charges: 265 (Rs. per hour- With Diesel)",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Bulldozer",
+     "benefit": "Hire charges: 670 (Rs. per hour- With Diesel)",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Tractor mounted Combine Harvester",
+     "benefit": "Hire charges: 780 (Rs. per hour- With Diesel)",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Class crop Tiger Combine Harvesters rubber track type",
+     "benefit": "Hire charges: 1130 (Rs. per hour- With Diesel)",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "49-67",
+   "evidence": [
+    "hires out machinery to (Subsidy) farmers as per Government approved hire charges",
+    "Farmers of all categories",
+    "Land Shaping Land Levelling Land Reclamation Ploughing, Puddling Paddy Harvesting by Combine Harvester",
+    "Hire Charges ( Rs. per hour- With Diesel)"
+   ],
+   "extracted_from": "tn-land-dev"
+  },
+  {
+   "id": "tn-national-agriculture-development-programme-nadp",
+   "name": "National Agriculture Development Programme (NADP)",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Farm mechanisation",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "project_area": "All Districts (except Chennai)",
+   "summary": "NADP in Tamil Nadu covers all districts except Chennai and has three components: agricultural mechanisation, dry land development, and establishment of a land resources inventory and GIS data base. Farmers receive 50% subsidy assistance for purchasing newly developed agricultural implements and 25% for conventional machinery / implements.",
+   "components": [
+    {
+     "name": "Agricultural Mechanisation",
+     "benefit": "Item of works: Introduction of newly developed agricultural machinery / implements; Popularising conventional machinery / implements.",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Dry Land Development",
+     "benefit": "Item of works: Plastic lined farm pond with portable sprinkler unit; Unlined farm pond; Compartmental Bunding",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Establishment of land resources inventory and GIS data base",
+     "benefit": "Item of works: Digitisation of cadastral maps of potential crop growing villages",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "benefits": "50% subsidy assistance is provided to farmers for purchasing newly developed agricultural implements such as mini combine harvester, multi crop thrasher, paddy transplanter, and 25% subsidy assistance is provided to farmers for purchasing conventional machinery / implements such as power tiller, rotavator, cultivator, offset disc harrow, disc plough etc.",
+   "eligibility": null,
+   "funding_pattern": null,
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "source_lines": "68-82",
+   "evidence": [
+    "50% subsidy assistance is provided to farmers for purchasing newly developed agricultural implements",
+    "25% subsidy assistance is provided to farmers for purchasing conventional machinery / implements",
+    "All Districts (except Chennai)"
+   ],
+   "extracted_from": "tn-nadp"
+  },
+  {
+   "id": "tn-rain-water-harvesting-and-runoff-management-programme",
+   "name": "Rain Water Harvesting and Runoff Management Programme",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Land and water",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "project_area": "All Districts (Except Chennai and Nilgiris)",
+   "summary": "Rain water harvesting and runoff management programme for all districts except Chennai and Nilgiris, presented on the page together with the NABARD assisted Rain Water Harvesting Programme. Listed works are percolation ponds; major, medium and minor check dams; farm ponds; rejuvenation of unused wells; and village tanks / Ooranies, with a 100% grant on works in community lands (beneficiaries also contribute a share in cash) and a 90% subsidy on works in patta lands (remaining 10% is beneficiary share).",
+   "benefits": "100% grant is provided on cost of works taken up in community lands. However, the beneficiaries are required to contribute 10% of the cost of works (it is 5% in case of SC/ST) in cash which will be deposited in the name of the Village Development Association / Watershed Association for future maintenance of the assets created. 90% subsidy is provided on cost of works in patta lands and the remaining 10% is collected as beneficiary share.",
+   "eligibility": null,
+   "funding_pattern": "Community lands: 100% grant on cost of works; beneficiaries to contribute 10% of the cost of works (5% in case of SC/ST) in cash. Patta lands: 90% subsidy on cost of works; remaining 10% collected as beneficiary share.",
+   "how_to_apply": null,
+   "contact_officers": "Assistant Executive Engineer, AED in the Revenue Division. Executive Engineer, AED in the District. Superintending Engineer, AED in the Region. Chief Engineer, Agricultural Engineering Department, Nandanam, Chennai-35. Phone 2435 2686, 2435 2622",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Percolation ponds",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Major, medium and minor check dams",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farm Ponds",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Rejuvenation of unused wells",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Village tanks / Ooranies",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "84-93",
+   "evidence": [
+    "Project Area : All Districts (Except Chennai and Nilgiris)",
+    "100% grant is provided on cost of works taken up in community lands",
+    "the beneficiaries are required to contribute 10% of the cost of works (it is 5% in case of SC/ST) in cash",
+    "90% subsidy is provided on cost of works in patta lands and the remaining 10% is collected as beneficiary share"
+   ],
+   "extracted_from": "tn-rainwater"
+  },
+  {
+   "id": "tn-nabard-assisted-rain-water-harvesting-programme",
+   "name": "NABARD assisted Rain Water Harvesting Programme",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Land and water",
+   "parent_programme": null,
+   "sponsor": "NABARD assisted (as named on the page)",
+   "implementing_agency": null,
+   "project_area": "Kanchipuram, Thiruvallur, Villupuram, Cuddalore, Vellore, Salem, Erode, Namakkal, Trichy, Perambalur, Karur, Dindigul, Theni, Virudhunagar, Ramnad, Sivaganga, Thoothukudi, Coimbatore and Nilgiris",
+   "summary": "NABARD assisted rain water harvesting programme for the project-area districts named on the page, presented together with the Rain Water Harvesting and Runoff Management Programme. Listed works are percolation ponds; major, medium and minor check dams; farm ponds; rejuvenation of unused wells; and village tanks / Ooranies, with a 100% grant on works in community lands (beneficiaries also contribute a share in cash) and a 90% subsidy on works in patta lands (remaining 10% is beneficiary share).",
+   "benefits": "100% grant is provided on cost of works taken up in community lands. However, the beneficiaries are required to contribute 10% of the cost of works (it is 5% in case of SC/ST) in cash which will be deposited in the name of the Village Development Association / Watershed Association for future maintenance of the assets created. 90% subsidy is provided on cost of works in patta lands and the remaining 10% is collected as beneficiary share.",
+   "eligibility": null,
+   "funding_pattern": "Community lands: 100% grant on cost of works; beneficiaries to contribute 10% of the cost of works (5% in case of SC/ST) in cash. Patta lands: 90% subsidy on cost of works; remaining 10% collected as beneficiary share.",
+   "how_to_apply": null,
+   "contact_officers": "Assistant Executive Engineer, AED in the Revenue Division. Executive Engineer, AED in the District. Superintending Engineer, AED in the Region. Chief Engineer, Agricultural Engineering Department, Nandanam, Chennai-35. Phone 2435 2686, 2435 2622",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Percolation ponds",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Major, medium and minor check dams",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farm Ponds",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Rejuvenation of unused wells",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Village tanks / Ooranies",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "84-93",
+   "evidence": [
+    "NABARD assisted Rain Water Harvesting Programme",
+    "100% grant is provided on cost of works taken up in community lands",
+    "the beneficiaries are required to contribute 10% of the cost of works (it is 5% in case of SC/ST) in cash",
+    "90% subsidy is provided on cost of works in patta lands and the remaining 10% is collected as beneficiary share"
+   ],
+   "extracted_from": "tn-rainwater"
+  },
+  {
+   "id": "tn-replacement-of-old-pumpsets-with-new-pumpsets",
+   "name": "Replacement of old Pumpsets with new Pumpsets",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Farm mechanisation",
+   "parent_programme": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "funding_pattern": null,
+   "project_area": "All Districts (except Chennai.)",
+   "summary": "Scheme for replacing old, inefficient electrical pumpsets with new BIS pumpsets and renewing electrical accessories, covering all districts except Chennai. A subsidy is offered on the pump set (with different amounts for SC/ST farmers and other farmers) and on renewal of the panel and other electrical accessories.",
+   "benefits": "Pump sets below 5 HP: For SC/ST Farmers - Subsidy of Rs.3500 or50% of the cost of the pump set Whichever is less; For Other Farmers - Subsidy of Rs.2500 or 25% of the cost of the pump set. Whichever is less. Pump sets of 5 HP &above: For SC/ST Farmers - Subsidy of Rs.6000 or 50% of the cost of the pump set Whichever is less; For Other Farmers - Subsidy of Rs.5000 or 25% of the cost of the pump set. Whichever is less. Cost of renewal of panel and other electrical accessories: Subsidy of Rs.1500 or 50% of the cost of panel Whichever is less (single amount shown for this row; beneficiary category not stated on the page).",
+   "eligibility": "The farmers having agricultural wells with old, inefficient Electrical pump sets in all the districts of Tamil Nadu (except Chennai)",
+   "how_to_apply": null,
+   "contact_officers": "Assistant Executive Engineer , AED in the Revenue Division. Executive Engineer, AED in the District. Superintending Engineer, AED in the Region. Chief Engineer, Agricultural Engineering Department, Nandanam, Chennai-35. Phone 2435 2686 , 2435 2622",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Pump sets below 5 HP",
+     "benefit": "For SC/ST Farmers: Subsidy of Rs.3500 or50% of the cost of the pump set Whichever is less; For Other Farmers: Subsidy of Rs.2500 or 25% of the cost of the pump set. Whichever is less.",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Pump sets of 5 HP &above",
+     "benefit": "For SC/ST Farmers: Subsidy of Rs.6000 or 50% of the cost of the pump set Whichever is less; For Other Farmers: Subsidy of Rs.5000 or 25% of the cost of the pump set. Whichever is less.",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Cost of renewal of panel and other electrical accessories",
+     "benefit": "Subsidy of Rs.1500 or 50% of the cost of panel Whichever is less. (single amount shown for this row; beneficiary category not stated on the page)",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "95-112",
+   "evidence": [
+    "Replacement of old, inefficient electrical pumpsets with new BIS pumpsets and Renewal of Electrical accessories.",
+    "Subsidy of Rs.6000 or 50% of the cost of the pump set Whichever is less",
+    "Subsidy of Rs.1500 or 50% of the cost of panel Whichever is less.",
+    "The farmers having agricultural wells with old, inefficient Electrical pump sets in all the districts of Tamil Nadu (except Chennai)"
+   ],
+   "extracted_from": "tn-pumpsets"
+  },
+  {
+   "id": "tn-promoting-sri-40000-ha-demonstrations",
+   "name": "Promoting SRI in 40000 Ha. through conduct of demonstrations",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Crop productivity",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "summary": "Scheme to promote SRI in 40000 Ha. through conduct of demonstrations, with supply of seeds and other key inputs @ Rs.800/- per ha and supply of Conoweeder and Marker @ Rs.2200/- per ha. It is for farmers of all districts adopting SRI except Chennai, The Nilgiris and Kanyakumari.",
+   "benefits": "Supply of seeds and other key inputs @ Rs.800/- per ha; Supply of Conoweeder and Marker @ Rs.2200/- per ha",
+   "eligibility": "Farmers of all districts adopting SRI except Chennai, The Nilgiris and Kanyakumari.",
+   "funding_pattern": null,
+   "how_to_apply": null,
+   "contact_officers": null,
+   "project_area": "All districts adopting SRI except Chennai, The Nilgiris and Kanyakumari",
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Supply of seeds and other key inputs",
+     "benefit": "Rs.800/- per ha",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Supply of Conoweeder and Marker",
+     "benefit": "Rs.2200/- per ha",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "113-116",
+   "evidence": [
+    "Promoting SRI in 40000 Ha. through conduct of demonstrations",
+    "Supply of seeds and other key inputs @ Rs.800/- per ha",
+    "Supply of Conoweeder and Marker @ Rs.2200/- per ha",
+    "Farmers of all districts adopting SRI except Chennai, The Nilgiris and Kanyakumari."
+   ],
+   "extracted_from": "tn-sri-promotion"
+  },
+  {
+   "id": "tn-conoweeder-marker-distribution-women-shgs",
+   "name": "Distribution of Conoweeder and Marker to 3000 Women Self Help Groups",
+   "jurisdiction": "Tamil Nadu",
+   "category": "Farm mechanisation",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": null,
+   "summary": "Scheme for distribution of Conoweeder and Marker to 3000 Women Self Help Groups: 5 Conoweeders and one Marker are supplied @ Rs.7400/- per women group at free of cost for custom hiring. It covers 3000 TANWABE / SHG Women Groups of all districts except Chennai and The Nilgiris.",
+   "benefits": "Supply of 5 Conoweeders and one Marker @ Rs.7400/- per women group at free of cost for custom hiring to ensure easy accessibility of implements",
+   "eligibility": "3000 TANWABE / SHG Women Groups of all districts except Chennai and The Nilgiris",
+   "funding_pattern": null,
+   "how_to_apply": null,
+   "contact_officers": null,
+   "project_area": "All districts except Chennai and The Nilgiris",
+   "reference_url": null,
+   "components": [],
+   "source_lines": "117-118",
+   "evidence": [
+    "Distribution of Conoweeder and Marker to 3000 Women Self Help Groups",
+    "Supply of 5 Conoweeders and one Marker @ Rs.7400/- per women group at free of cost for custom hiring",
+    "3000 TANWABE / SHG Women Groups of all districts except Chennai and The Nilgiris"
+   ],
+   "extracted_from": "tn-sri-promotion"
+  },
+  {
+   "id": "kl-crop-insurance-scheme",
+   "name": "Crop Insurance Scheme",
+   "jurisdiction": "Kerala",
+   "category": "Insurance",
+   "parent_programme": null,
+   "sponsor": "State Government",
+   "funding_pattern": "100% by State Government.",
+   "implementing_agency": "Agriculture Department",
+   "project_area": null,
+   "summary": "State Government-sponsored crop insurance scheme in Kerala for farmers facing production risks on various counts, such as drought, floods, etc.; a crop insurance scheme with contribution from the participating farmers has been in operation covering 25 major crops grown in the state since 1995. The present scheme aims at revamping the crop insurance programme making it viable so as to cater to risk coverage of small and marginal farmers, with an outlay of Rs.100.00 lakhs.",
+   "benefits": "Benefit Type: Material,Loan,Subsidy. Scheme aims to cater to risk coverage of small and marginal farmers.",
+   "eligibility": "Any farmer. Beneficiaries: Family,Community,other. Other Beneficiaries: Farmers enrolled in this insurance scheme.",
+   "how_to_apply": "By contacting the Agriculture department and local self government institutions",
+   "contact_officers": null,
+   "reference_url": "http://www.keralaagriculture.gov.in",
+   "components": [],
+   "source_lines": "120-137",
+   "evidence": [
+    "covering 25 major crops grown in the state since 1995",
+    "cater to risk coverage of small and marginal farmers",
+    "Outlay of the scheme is Rs.100.00 lakhs.",
+    "Any farmer."
+   ],
+   "extracted_from": "kl-1-2"
+  },
+  {
+   "id": "kl-national-agricultural-insurance-scheme-nais",
+   "name": "National Agricultural Insurance Scheme (NAIS)",
+   "jurisdiction": "Kerala",
+   "category": "Insurance",
+   "parent_programme": null,
+   "sponsor": "Both: Central & State Government",
+   "funding_pattern": "50:50 sharing basis between central and state government.",
+   "implementing_agency": "Agriculture Department; the NAIS scheme is implemented by the Agricultural Insurance Corporation",
+   "project_area": null,
+   "summary": "National Agricultural Insurance Scheme (NAIS) in Kerala, sponsored by both the Central and State Government, which aims at tackling the issue of production risk faced by the agricultural sector. The Rs.1.50 crores allocated for the scheme will be utilised as 50 percent contribution of the State (excluding salary component) towards the NAIS implemented by the Agricultural Insurance Corporation for crops such as paddy, banana, tapioca, ginger, turmeric and pineapple.",
+   "benefits": "Benefit Type: Subsidy. Rs.1.50 crores allocated for the scheme will be utilised as 50 percent contribution of the State (excluding salary component) towards the NAIS scheme implemented by the Agricultural Insurance Corporation with crops such as paddy, banana, tapioca, ginger, turmeric and pineapple. It is proposed to spend Rs. 0.25 crores of the allocation of the scheme towards 25% share of premium for initiating coconut crop insurance scheme since the National Agricultural Insurance Company has initiated a pilot project on coconut crop insurance in Kerala. The total allocation of the NAIS for 2009-10 is Rs. 200 lakhs.",
+   "eligibility": "A Farmer dealing with the farming of paddy, banana, tapioca, ginger, turmeric and pineapple. Beneficiaries: Individual,Community,other. Other Beneficiaries: Any farmer covered under this insurance programme.",
+   "how_to_apply": "By contacting the Agriculture department, local self government institutions",
+   "contact_officers": null,
+   "reference_url": "http://www.agriculture-industry-india.com/agro-programme-schemes/credit3.htm",
+   "components": [],
+   "source_lines": "139-158",
+   "evidence": [
+    "Rs.1.50 crores allocated for the scheme will be utilised as 50 percent contribution of the State (excluding salary component)",
+    "towards 25% share of premium for initiating coconut crop insurance scheme",
+    "A Farmer dealing with the farming of paddy, banana, tapioca, ginger, turmeric and pineapple",
+    "The total allocation of the NAIS for 2009-10 is Rs. 200 lakhs"
+   ],
+   "extracted_from": "kl-1-2"
+  },
+  {
+   "id": "kl-integrated-pest-management-system",
+   "name": "Schemes for Integrated Pest Management System",
+   "jurisdiction": "Kerala",
+   "category": "Pest management",
+   "parent_programme": null,
+   "sponsor": "State Government",
+   "funding_pattern": "100% by State Government",
+   "implementing_agency": "Agriculture Department",
+   "project_area": null,
+   "summary": "Scheme proposed by the agriculture department of Government of Kerala to establish a full-fledged system of pest surveillance in a phased manner, to cover major crops of the State, with the thrust on biocontrol measures from a long-term perspective. The total outlay of the scheme is Rs. 50.00 lakh.",
+   "benefits": "Benefit type: Material. Main objectives of the scheme: (1) To keep pests and diseases of crops below Economic Threshold level by adopting an integrated pest management practice; (2) Constant pest surveillance and monitoring to ascertain pest population; (3) Creating awareness among farmers on the prominent pests and diseases, which cause severe damage to crops and suggest measures to prevent them.",
+   "eligibility": "Any farmer. Beneficiaries listed on the page: other; Other Beneficiaries: Farmers.",
+   "how_to_apply": "By contacting the Department of Agriculture, and the concerned Panchayat.",
+   "contact_officers": "Department of Agriculture, and the concerned Panchayat",
+   "reference_url": "http://www.keralaagriculture.gov.in",
+   "components": [],
+   "source_lines": "160-177",
+   "evidence": [
+    "establish a full-fledged system of pest surveillance in a phased manner",
+    "The total outlay of the scheme is Rs. 50.00 lakh",
+    "Any farmer.",
+    "100% by State Government"
+   ],
+   "extracted_from": "kl-3-6"
+  },
+  {
+   "id": "kl-sustainable-development-of-rice-based-farming-system",
+   "name": "Sustainable Development of Rice Based Farming System",
+   "jurisdiction": "Kerala",
+   "category": "Crop productivity",
+   "parent_programme": null,
+   "sponsor": "State Government",
+   "funding_pattern": "100% by State Government.",
+   "implementing_agency": "Agriculture Department; proposed to be implemented through Kudumbasree, self help group of rural women, local self governments in association with research institutions and financial institutions",
+   "project_area": "Three major rice-growing tracts of the State (tracts not named on the page)",
+   "summary": "Scheme concentrated in three major rice-growing tracts of the State for augmenting rice productivity, with the ultimate objective of increasing average productivity of rice to around 3 tonnes per hectre; group farming samithies/Padasekhara samithies will constitute the nucleus of the programme. The total outlay of the scheme is Rs.2300.00 lakhs.",
+   "benefits": "Benefit type: Material, Subsidy. Ultimate objective of the project: to increase average productivity of rice to around 3 tonnes per hectre.",
+   "eligibility": "Any farmer engaged in cultivation of rice. Beneficiaries listed on the page: Individual, Family, Community, Women, Children.",
+   "how_to_apply": "Through Agriculture Department, Local Self Government Institutions",
+   "contact_officers": null,
+   "reference_url": "http://www.keralaagriculture.gov.in",
+   "components": [],
+   "source_lines": "179-194",
+   "evidence": [
+    "three major rice-growing tracts of the State for augmenting rice productivity",
+    "to increase average productivity of rice to around 3 tonnes per hectre",
+    "Any farmer engaged in cultivation of rice.",
+    "Material,Subsidy,"
+   ],
+   "extracted_from": "kl-3-6"
+  },
+  {
+   "id": "kl-rashtriya-krishi-vikas-yojana-rkvy",
+   "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+   "jurisdiction": "Kerala",
+   "category": "Other",
+   "parent_programme": null,
+   "sponsor": "Central Government",
+   "funding_pattern": "The fund has been provided to the State as 100% Grant.",
+   "implementing_agency": "Agriculture Department; implemented by the Government of Kerala",
+   "project_area": null,
+   "summary": "A special central assistance scheme of the Government of India, implemented by the Government of Kerala, primarily aimed at evolving a strategy to rejuvenate the agriculture sector of the State. Its general objective is to provide incentives to the State for increasing public investment in agriculture and allied sectors, and the allocation for the scheme is Rs.6011.10 lakhs.",
+   "benefits": "Benefit type: Material, Loan, Subsidy. Objectives of the scheme, in general, are to provide incentives to the State for increasing public investment in agriculture and allied sectors, and in particular: (1) to ensure that agriculture for the State and districts are prepared based on agro-climatic conditions, availability of technology and natural resources; (2) to make sure that local needs/crops/priorities are better reflected in the agricultural plan of the State; (3) to reduce yield gaps in important crops through focused interventions; (4) Maximisation of returns to farmers in agriculture and allied sectors; (5) to bring about quantifiable changes in production and productivity of various components of agriculture and allied sectors by addressing them in a holistic manner.",
+   "eligibility": "The Department of Agriculture has to prepare Agriculture plans and State Agriculture plans based on the guidelines of the Planning Commission through the State Planning Board. Beneficiaries listed on the page: Individual, Family, Community, Women.",
+   "how_to_apply": "Through the Agriculture Department and Local Self Governments.",
+   "contact_officers": null,
+   "reference_url": "http://agricoop.nic.in/Rkvy/Rkvyfinal-1.pdf",
+   "components": [],
+   "source_lines": "195-211",
+   "evidence": [
+    "provide incentives to the State for increasing public investment in agriculture",
+    "The fund has been provided to the State as 100% Grant.",
+    "The Department of Agriculture has to prepare Agriculture plans and State Agriculture plans",
+    "The allocation for the scheme is Rs.6011.10 lakhs"
+   ],
+   "extracted_from": "kl-3-6"
+  },
+  {
+   "id": "kl-marco-management-rice-development",
+   "name": "Schemes under Marco Management Rice development",
+   "jurisdiction": "Kerala",
+   "category": "Crop productivity",
+   "parent_programme": null,
+   "sponsor": null,
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "project_area": null,
+   "summary": "List of schemes proposed for the rice crop under Marco Management Rice development: seed production programmes, land and other infrastructure development, assistance for purchase of HYV seed, assistance for soil ameliorants, plant protection in rice, promotion of INM in rice and assistance for seedicides. The page gives only this list, with no amounts, eligibility or application details.",
+   "benefits": null,
+   "eligibility": null,
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Seed production programmes",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Land and other infrastructure development",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Assistance for purchase of HYV seed",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Assistance for soil ameliorants",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Plant protection in rice",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Promotion of INM in rice",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Assistance for seedicides",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "213-221",
+   "evidence": [
+    "Schemes proposed for rice crop is given below",
+    "Seed production programmes",
+    "Assistance for purchase of HYV seed",
+    "Promotion of INM in rice"
+   ],
+   "extracted_from": "kl-3-6"
+  },
+  {
+   "id": "ka-rashtriya-krishi-vikas-yojana-rkvy",
+   "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+   "jurisdiction": "Karnataka",
+   "category": "Other",
+   "summary": "Rashtriya Krishi Vikas Yojana (RKVY) aims at achieving 4% annual growth in the agriculture sector during the XI Plan period by ensuring a holistic development of agriculture and allied sectors.",
+   "benefits": "Aims at achieving 4% annual growth in the agriculture sector during the XI Plan period, by ensuring a holistic development of Agriculture and allied sectors.",
+   "eligibility": null,
+   "how_to_apply": "Contact Ministry of Agriculture or concerned State Agriculture Departments",
+   "contact_officers": "Ministry of Agriculture or concerned State Agriculture Departments",
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": null,
+   "reference_url": "http://agricoop.nic.in/Rkvy/Rkvyfinal-1.pdf",
+   "components": [],
+   "source_lines": "226-226",
+   "evidence": [
+    "Aims at achieving 4% annual growth in the agriculture sector during the XI Plan period",
+    "Contact Ministry of Agriculture or concerned State Agriculture Departments"
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "ka-national-agricultural-insurance-scheme-nais",
+   "name": "National Agricultural Insurance Scheme (NAIS)",
+   "jurisdiction": "Karnataka",
+   "category": "Insurance",
+   "summary": "The National Agricultural Insurance Scheme (NAIS) aims to provide insurance coverage and financial support to farmers in the event of failure of any of the notified crop as a result of natural calamities, pests and diseases. It also encourages farmers to adopt progressive farming practices, high value inputs and higher technology in agriculture; this helps stabilize farm incomes, particularly in disaster years.",
+   "benefits": "The aim of the scheme is to provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crop as a result of natural calamities, pests and diseases. The scheme also encourages the farmers to adopt progressive farming practices, high value in-puts and higher technology in agriculture. This helps stabilize farm incomes, particularly in disaster years.",
+   "eligibility": null,
+   "how_to_apply": "The scheme can be availed by contacting the Department of Agriculture and Cooperation or local self government institutions",
+   "contact_officers": "Department of Agriculture and Cooperation or local self government institutions",
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": null,
+   "reference_url": "http://des.kar.nic.in/cis/Guidelines.pdf",
+   "components": [],
+   "source_lines": "227-227",
+   "evidence": [
+    "provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crop",
+    "The scheme can be availed by contacting the Department of Agriculture and Cooperation or local self government institutions"
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "ka-minikit-programme-for-rice",
+   "name": "Minikit Programme for Rice",
+   "jurisdiction": "Karnataka",
+   "category": "Seed",
+   "summary": "The Minikit Programme for Rice aims to increase productivity by popularizing the use of newly released hybrid/high yielding varieties and to spread the area coverage under location specific high yielding varieties/hybrids. Its benefits reach farmers through State Departments of Agriculture.",
+   "benefits": "The objective of the scheme is to increase the productivity by popularizing the use of newly released hybrid/high yielding varieties and spread the area coverage under location specific high yielding varieties/hybrids.",
+   "eligibility": null,
+   "how_to_apply": "The benefits of the scheme reach the farmers through State Departments of Agriculture.",
+   "contact_officers": null,
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": null,
+   "reference_url": "http://agricoop.nic.in/dacdivision/crop1.htm#d2",
+   "components": [],
+   "source_lines": "228-228",
+   "evidence": [
+    "increase the productivity by popularizing the use of newly released hybrid/high yielding varieties",
+    "The benefits of the scheme reach the farmers through State Departments of Agriculture."
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "ka-promotion-of-integrated-pest-management",
+   "name": "Promotion of Integrated Pest Management",
+   "jurisdiction": "Karnataka",
+   "category": "Pest management",
+   "summary": "The Promotion of Integrated Pest Management scheme aims to popularize the Integrated Pest Management (IPM) approach among the farming community and promote the use of bio pesticides by imparting training to master trainers, extension workers and farmers. It is implemented in 21 States and one Union Territory with 26 Centres.",
+   "benefits": "The scheme aims to popularize Integrated Pest Management (IPM) approach among farming community to promote use of bio pesticides by imparting training to master trainers, extension workers and farmers.",
+   "eligibility": null,
+   "how_to_apply": "Persons to be contacted The Plant Protection Adviser Directorate of Plant Protection, Quarantine & Storage, Govt. of the India, N.H. IV, Faridabd-121001 (Haryana), Fax No. 0129-5412125, PH. No. 01295413985 01295413985",
+   "contact_officers": "The Plant Protection Adviser Directorate of Plant Protection, Quarantine & Storage, Govt. of the India, N.H. IV, Faridabd-121001 (Haryana), Fax No. 0129-5412125, PH. No. 01295413985 01295413985",
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": "21 States and one Union Territory with 26 Centres",
+   "reference_url": "http://agricoop.nic.in/dacdivisi n/pp1.htm",
+   "components": [],
+   "source_lines": "229-229",
+   "evidence": [
+    "popularize Integrated Pest Management (IPM) approach among farming community to promote use of bio pesticides",
+    "imparting training to master trainers, extension workers and farmers",
+    "Scheme is implemented in 21 States and one Union Territory with 26 Centres.",
+    "The Plant Protection Adviser Directorate of Plant Protection, Quarantine & Storage"
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "ka-gramin-bhandaran-yojna",
+   "name": "Gramin Bhandaran Yojna",
+   "jurisdiction": "Karnataka",
+   "category": "Storage and marketing",
+   "summary": "The main objectives of the Gramin Bhandaran Yojna include creation of scientific storage capacity with allied facilities in rural areas to meet the requirements of farmers for storing farm produce, processed farm produce and agricultural inputs, and promotion of grading, standardization and quality control of agricultural produce to improve their marketability. It also aims at prevention of distress sale immediately after harvest by providing the facility of pledge financing and marketing credit.",
+   "benefits": "The main objectives of the scheme include creation of scientific storage capacity with allied facilities in rural areas to meet the requirements of farmers for storing farm produce, processed farm produce and agricultural inputs. Also, promotion of grading, standardization and quality control of agricultural produce to improve their marketability. the scheme also aims at prevention of distress sale immediately after harvest by providing the facility of pledge financing and marketing credit by strengthening agricultural marketing infrastructure in the country.",
+   "eligibility": "Can be availed by a group of financial institutions/banks listed under the scheme",
+   "how_to_apply": "This scheme can be availed by a group of financial institutions/banks listed under the scheme.",
+   "contact_officers": null,
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": null,
+   "reference_url": "http://agmarknet.nic.in/amrscheme/rural head.htm",
+   "components": [],
+   "source_lines": "230-230",
+   "evidence": [
+    "creation of scientific storage capacity with allied facilities in rural areas",
+    "promotion of grading, standardization and quality control of agricultural produce to improve their marketability",
+    "prevention of distress sale immediately after harvest by providing the facility of pledge financing and marketing credit",
+    "This scheme can be availed by a group of financial institutions/banks listed under the scheme."
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "ka-pledge-loan-scheme",
+   "name": "Pledge Loan Scheme",
+   "jurisdiction": "Karnataka",
+   "category": "Credit",
+   "summary": "Under the Pledge Loan Scheme, in force since 1994-95 in 132 markets of the State, loans may be paid to farmers against the pledge of their agricultural produce. The scheme is for a short period of 90 days.",
+   "benefits": "Loans up to Rs. 50,000-00 or 60% of the value of the agricultural produce may be paid to the farmers against the pledge of their agricultural produce. No interest will be charged for the first 30 days. Interest at the rate of 8% and 12.5% will be charged for the next two successive months .The scheme is for a short period of 90 days",
+   "eligibility": "Farmers, against the pledge of their agricultural produce",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "funding_pattern": null,
+   "implementing_agency": null,
+   "sponsor": null,
+   "parent_programme": null,
+   "project_area": "132 markets of the State",
+   "reference_url": "http://maratavahini.kar.nic.in/apmc_eng/e_schemes.htm",
+   "components": [],
+   "source_lines": "231-231",
+   "evidence": [
+    "Loans up to Rs. 50,000-00 or 60% of the value of the agricultural produce may be paid to the farmers against the pledge of their agricultural produce.",
+    "No interest will be charged for the first 30 days.",
+    "Interest at the rate of 8% and 12.5% will be charged for the next two successive months",
+    "This scheme is in force since 1994-95 in 132 markets of the State."
+   ],
+   "extracted_from": "ka-all"
+  },
+  {
+   "id": "cs-crop-loan",
+   "name": "CropLoan",
+   "jurisdiction": "Central",
+   "category": "Credit",
+   "parent_programme": "Institutional Credit Facilities",
+   "implementing_agency": "Co-operatives, Commercial Banks and Regional Rural Banks (institutional credit is disbursed through these)",
+   "sponsor": null,
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "CropLoan is a short-term loan to meet cultivation expenses for various crops, listed on the page under short term and medium term loans. It is extended as direct finance to farmers with a repayment period not exceeding 18 months.",
+   "eligibility": "All categories of farmers.",
+   "benefits": "To meet cultivation expenses for various crops as short-term loan. This loan is extended in the form of direct finance to farmers with a repayment period not exceeding 18 months.",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [],
+   "source_lines": "239-244",
+   "evidence": [
+    "All categories of farmers.",
+    "To meet cultivation expenses for various crops as short-term loan.",
+    "repayment period not exceeding 18 months",
+    "disbursed through co-operatives, Commercial Banks and Regional Rural Banks"
+   ],
+   "extracted_from": "cs-credit"
+  },
+  {
+   "id": "cs-produce-marketing-loan",
+   "name": "Produce Marketing Loan",
+   "jurisdiction": "Central",
+   "category": "Credit",
+   "parent_programme": "Institutional Credit Facilities",
+   "implementing_agency": "Co-operatives, Commercial Banks and Regional Rural Banks (institutional credit is disbursed through these)",
+   "sponsor": null,
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "The Produce Marketing Loan is given to help farmers store produce on their own to avoid distress sale, and is listed on the page under short term and medium term loans. It also facilitates immediate renewal of crop loans for next crop, and its repayment period does not exceed 6 months.",
+   "eligibility": "All categories of farmers.",
+   "benefits": "This loan is given to help farmers to store produce on their own to avoid distress sale. This loan also facilitates immediate renewal of crop loans for next crop. The repayment period of the loan does not exceed 6 months.",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [],
+   "source_lines": "239-245",
+   "evidence": [
+    "All categories of farmers.",
+    "help farmers to store produce on their own to avoid distress sale",
+    "The repayment period of the loan does not exceed 6 months.",
+    "disbursed through co-operatives, Commercial Banks and Regional Rural Banks"
+   ],
+   "extracted_from": "cs-credit"
+  },
+  {
+   "id": "cs-kisan-credit-card-scheme",
+   "name": "Kisan Credit Card Scheme (KCCS)",
+   "jurisdiction": "Central",
+   "category": "Credit",
+   "parent_programme": "Institutional Credit Facilities",
+   "implementing_agency": "Co-operatives, Commercial Banks and Regional Rural Banks (institutional credit is disbursed through these)",
+   "sponsor": null,
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "The Kisan Credit Card Scheme (KCCS) provides running account facilities to farmers to meet their production credit and contingency needs, and is listed on the page under short term and medium term loans. The minimum credit limit is Rs. 3000/-, the card is valid for 3 years subject to annual review, and it also covers personal insurance against death or permanent disability.",
+   "eligibility": "All agriculture clients having good track record for the last two years.",
+   "benefits": "This card provides running account facilities to farmers to meet their production credit and contingency needs. Minimum credit limit is Rs. 3000/-. Credit limit is based on operational land holding, cropping pattern and scale of finance. The Kisan Credit Card is valid for 3 years subject to annual review. It also covers personal insurance against death or permanent disability for maximum amount of Rs. 50,000 and Rs. 25,000 respectively.",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [],
+   "source_lines": "239-246",
+   "evidence": [
+    "All agriculture clients having good track record for the last two years.",
+    "running account facilities to farmers to meet their production credit and contingency needs",
+    "Minimum credit limit is Rs. 3000/-.",
+    "personal insurance against death or permanent disability for maximum amount of Rs. 50,000 and Rs. 25,000 respectively"
+   ],
+   "extracted_from": "cs-credit"
+  },
+  {
+   "id": "cs-agricultural-term-loan",
+   "name": "Agricultural Term Loan",
+   "jurisdiction": "Central",
+   "category": "Credit",
+   "parent_programme": "Institutional Credit Facilities",
+   "implementing_agency": "Co-operatives, Commercial Banks and Regional Rural Banks (institutional credit is disbursed through these)",
+   "sponsor": null,
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "The Agricultural Term Loan is a long term loan that banks extend to farmers to create assets facilitating crop production/income generation, covering activities such as land development, minor irrigation, farm mechanization, plantation and horticulture, dairying, poultry, sericulture and dry land / waste land development schemes. It is offered as direct finance to farmers with a repayment span not less than 3 years and not exceeding 15 years.",
+   "eligibility": "All categories of farmers (small/medium and agricultural labourers) are eligible, provided they have necessary experience in the activity and required area.",
+   "benefits": "The banks extend this loan to farmers to create assets facilitating crop production/income generation. Activities covered under this scheme are land development, minor irrigation, farm mechanization, plantation and horticulture, dairying, poultry, sericulture, dry land / waste land development schemes etc. This loan is offered in the form of direct finance to farmers with a repayment span not lass than 3 years and not exceeding 15 years.",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Land development",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Minor irrigation",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farm mechanization",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Plantation and horticulture",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Dairying",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Poultry",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Sericulture",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Dry land / waste land development schemes",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "239-251",
+   "evidence": [
+    "All categories of farmers (small/medium and agricultural labourers) are eligible",
+    "The banks extend this loan to farmers to create assets facilitating crop production/income generation.",
+    "land development, minor irrigation, farm mechanization, plantation and horticulture, dairying, poultry, sericulture",
+    "repayment span not lass than 3 years and not exceeding 15 years"
+   ],
+   "extracted_from": "cs-credit"
+  },
+  {
+   "id": "cs-icdp-rice",
+   "name": "Integrated Cereal Development Programme (ICDP)-Rice",
+   "jurisdiction": "Central",
+   "category": "Crop productivity",
+   "summary": "Integrated Cereal Development Programme (ICDP)-Rice is a Central Government-sponsored programme (100 % central sponsored). Its major components are field demonstration, farmers field school, IPM demonstration, seed distribution, farmers training, sprayer P.P. equipment, hand tool, farm implements and power tiller, and subsidy is available on various components.",
+   "sponsor": "Central Government",
+   "funding_pattern": "100 % central sponsored",
+   "implementing_agency": null,
+   "parent_programme": null,
+   "project_area": null,
+   "components": [
+    {
+     "name": "Field Demonstration",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farmers Field School",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "IPM Demonstration",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Seed Distribution",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farmers Training",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Sprayer P.P. Equipment",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Hand Tool",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Farm Implements",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Power Tiller",
+     "benefit": null,
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "benefits": "Subsidy is available under the Scheme on various components including agriculture implements such as Plant Protection Equipments. Subsidy is also available on certified quality seeds and IPM demonstrations. Subsidy per farmer or per activity should not exceed 25% of the cost or the present subsidy level approved under the schemes, whichever is lower.",
+   "eligibility": "All Categories of Farmers. Beneficiaries - Individual, Family, Community, Women, other",
+   "how_to_apply": "Selection of beneficiaries to be done through recommendation of District Agriculture Officer.",
+   "contact_officers": null,
+   "reference_url": null,
+   "source_lines": "254-263",
+   "evidence": [
+    "Subsidy is available under the Scheme on various components including agriculture implements such as Plant Protection Equipments",
+    "Subsidy is also available on certified quality seeds and IPM demonstrations",
+    "should not exceed 25% of the cost or the present subsidy level approved under the schemes, whichever is lower",
+    "All Categories of Farmers"
+   ],
+   "extracted_from": "cs-icdp-minikit"
+  },
+  {
+   "id": "cs-minikit-programme-for-rice",
+   "name": "Minikit Programme for Rice",
+   "jurisdiction": "Central",
+   "category": "Crop productivity",
+   "summary": "Minikit Programme for Rice is a Ministry of Agriculture programme sponsored by the Central Government and 100% funded by the Government of India. Its objective is to increase the productivity by popularising the use of newly released hybrid/high yielding varieties and spread the area coverage under location specific high yielding varieties/hybrids.",
+   "sponsor": "Central Government",
+   "funding_pattern": "100% funded by the Government of India",
+   "implementing_agency": "Ministry of Agriculture, Department of Agriculture & Cooperation",
+   "parent_programme": null,
+   "project_area": null,
+   "components": [],
+   "benefits": null,
+   "eligibility": "All states are eligible to avail this scheme.",
+   "how_to_apply": "The benefits of the scheme reach the farmers through State Departments of Agriculture",
+   "contact_officers": null,
+   "reference_url": null,
+   "source_lines": "264-270",
+   "evidence": [
+    "The programme is 100% funded by the Government of India.",
+    "to increase the productivity by popularising the use of newly released hybrid/high yielding varieties",
+    "All states are eligible to avail this scheme.",
+    "The benefits of the scheme reach the farmers through State Departments of Agriculture"
+   ],
+   "extracted_from": "cs-icdp-minikit"
+  },
+  {
+   "id": "cs-minimum-support-price-scheme",
+   "name": "Minimum Support Price Scheme",
+   "jurisdiction": "Central",
+   "category": "Price support",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": "National Agricultural Co-operative Marketing Federation (NAFED), which in the procurement operation appoints state level agencies in consultation with the State Governments who in turn involve their co-operative marketing societies for the procurement at the field level",
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "Price support scheme that ensures farmers a minimum support price, worked out by the Commission for Agricultural Costs and Prices (CACP) set up by the Government of India, and safeguards farmers' interest especially during periods of high production and crash in price. The page lists the 2010-11 minimum support price for paddy as 1000 (Common) and 1030 (Grade 'A'), with no unit stated.",
+   "benefits": "Ensures farmers a minimum support price, which is worked out by the Commission for Agricultural Costs and Prices (CACP) set up by the Government of India. As described on the page, a minimum price is established by a government and supported by payments to producers in the event that the market price falls below the specified minimum price; a price support scheme can also be an agreement where the government agrees to purchase the surplus at a minimum price. This scheme safeguards the farmers' interest especially during periods of high production and crash in price. Minimum support price (2010-11) for Paddy: Common 1000; Grade 'A' 1030 (unit not stated on the page). Example given on the page: if a price floor were set in place for paddy, the government would be forced to purchase the resulting surplus from the paddy farmers (thereby subsidizing the farmers) and store or otherwise dispose it.",
+   "eligibility": null,
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [
+    {
+     "name": "Paddy - Common",
+     "benefit": "Minimum support price (2010-11): 1000 (unit not stated on the page)",
+     "eligibility": null,
+     "officer": null
+    },
+    {
+     "name": "Paddy - Grade 'A'",
+     "benefit": "Minimum support price (2010-11): 1030 (unit not stated on the page)",
+     "eligibility": null,
+     "officer": null
+    }
+   ],
+   "source_lines": "271-282",
+   "evidence": [
+    "ensure farmers a minimum support price which is worked out by the Commission for Agricultural Costs and Prices (CACP)",
+    "Minimum support price ( 2010-11)",
+    "Paddy ‖ Common ‖ 1000",
+    "Grade 'A' ‖ 1030"
+   ],
+   "extracted_from": "cs-msp-nais"
+  },
+  {
+   "id": "cs-national-agricultural-insurance-scheme",
+   "name": "National Agricultural Insurance Scheme (NAIS)",
+   "jurisdiction": "Central",
+   "category": "Insurance",
+   "parent_programme": null,
+   "sponsor": null,
+   "implementing_agency": "General Insurance Corporation of India (GIC)",
+   "project_area": null,
+   "funding_pattern": null,
+   "summary": "Scheme that provides insurance coverage and financial support to farmers in the event of failure of any of the notified crop as a result of natural calamities, pests and diseases attack. It is available to all farmers, loanee and non-loanee both, irrespective of the size of their holding, with General Insurance Corporation of India (GIC) as the implementing agency.",
+   "benefits": "Insurance coverage and financial support to the farmers in the event of failure of any of the notified crop as a result of natural calamities, pests and diseases attack. Sum insured may extend to the value of threshold yield of the area insured. Provides subsidy of 50 percent in premium of small and marginal farmers; the subsidy will be phased out over a period of 5 years on sunset basis. Objectives: to encourage the farmers to adopt progressive farming practices, high value inputs and high technology in agriculture; to help to stabilize farm incomes, particularly in disaster years.",
+   "eligibility": "Available to all farmers, loanee and non-loanee both, irrespective of the size of their holding.",
+   "how_to_apply": null,
+   "contact_officers": null,
+   "reference_url": null,
+   "components": [],
+   "source_lines": "284-293",
+   "evidence": [
+    "Scheme is available to all farmers loanee and non-loanee both irrespective of the size of their holding.",
+    "To provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crop",
+    "Sum insured may extend to the value of threshold yield of the area insured.",
+    "Provides subsidy of 50 percent in premium of small and marginal farmers."
+   ],
+   "extracted_from": "cs-msp-nais"
+  }
+ ]
+}

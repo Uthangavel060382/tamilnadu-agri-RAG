@@ -1,0 +1,26 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#214aab"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f6fd"
+textColor = "#1c1c1c"
+linkColor = "#1656af"
+linkUnderline = false
+borderColor = "#d8dde8"
+baseRadius = "large"
+buttonRadius = "full"
+showWidgetBorder = true
+
+# Noto Sans for Latin; Tamil falls back to Noto Sans Tamil (loaded in ui/styles.css) or Nirmala UI on Windows.
+font = "'Noto Sans', 'Noto Sans Tamil', 'Nirmala UI', sans-serif:https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap"
+baseFontSize = 15
+headingFontSizes = ["2.3rem", "1.7rem", "1.3rem", "1.1rem", "1rem", "0.9rem"]
+headingFontWeights = [700, 700, 700, 600, 600, 600]
+
+# Table header row: light blue with navy text, like the reference portal.
+dataframeHeaderBackgroundColor = "#d2dfff"
+dataframeHeaderTextColor = "#162f6a"
+dataframeBorderColor = "#d2dfff"

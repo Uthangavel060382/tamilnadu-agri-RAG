@@ -1,0 +1,35 @@
+{
+  "_note": "pages = fetched as-is (their scheme-like PDF links are also downloaded). crawl = also follows scheme-like same-site links to 'depth'. pdfs = direct PDF URLs. Hosts that time out are skipped automatically; *.tn.gov.in hosts may only be reachable from inside India.",
+  "pages": [
+    "https://agritech.tnau.ac.in/govt_schemes_services/govt_serv_schems.html",
+    "https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_schemes.html",
+    "https://agritech.tnau.ac.in/agricultural_engineering/agriengg_govt_schemes12.html",
+    "https://agritech.tnau.ac.in/expert_system/paddy/Schemes.html",
+    "https://agritech.tnau.ac.in/crop_insurance/crop_ins.html",
+    "https://agritech.tnau.ac.in/banking/credit_bank.html",
+    "https://erode.nic.in/agricultural-engineering/",
+    "https://erode.nic.in/?p=35081",
+    "https://erode.nic.in/?p=35603",
+    "https://coimbatore.nic.in/department-of-horticulture-plantation-crops/"
+  ],
+  "crawl": [
+    {"url": "https://www.tnagrisnet.tn.gov.in/", "depth": 1, "max_pages": 25},
+    {"url": "https://www.tn.gov.in/department/2", "depth": 1, "max_pages": 15},
+    {"url": "https://tnhorticulture.tn.gov.in/", "depth": 1, "max_pages": 15}
+  ],
+  "pdfs": [
+    "https://agritech.tnau.ac.in/pdf/IAB_e_2026_27%20(1).pdf",
+    "https://tnhorticulture.tn.gov.in/site_assets/site-pdfs/budget_speech/TN-Agri-Budget-Speech-2025-26-ENGLISH-Full-Book.pdf",
+    "https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2022_23.pdf",
+    "https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_cc_2021_22.pdf",
+    "https://kygcms.tn.gov.in/cms_migrated/document/docfiles/agri_e_pn_2020_21.pdf",
+    "https://agritech.tnau.ac.in/govt_schemes_services/pdf/2015/agriculture.pdf",
+    "https://agritech.tnau.ac.in/govt_schemes_services/pdf/2015/horticulture.pdf",
+    "https://agritech.tnau.ac.in/govt_schemes_services/pdf/5_Marketing.pdf",
+    "https://agritech.tnau.ac.in/govt_schemes_services/pdf/2013/pn_tanhoda2013-14.pdf",
+    "https://agritech.tnau.ac.in/hrd/pdf/tn_schemes/tanhoda.pdf",
+    "https://agritech.tnau.ac.in/horticulture/pdf/MIDH_GL(E).pdf",
+    "http://www.agritech.tnau.ac.in/pdf/NMSA_GDL.pdf",
+    "https://agritech.tnau.ac.in/nutrition/nutritionpolicies_pn.pdf"
+  ]
+}

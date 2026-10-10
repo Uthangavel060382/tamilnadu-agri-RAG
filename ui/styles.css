@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;600;700&display=swap");
+
+:root {
+  --tn-navy: #162f6a;
+  --tn-blue: #214aab;
+  --tn-link: #1656af;
+  --tn-head: #d2dfff;
+  --tn-rule: #b2b2b2;
+  --tn-ink: #1c1c1c;
+}
+
+/* ---------- page frame ---------- */
+[data-testid="stHeader"] { background: transparent; }
+[data-testid="stMainBlockContainer"] {
+  max-width: 1180px;
+  padding: 2.6rem 1rem 2rem 1rem;
+}
+h1, h2, h3 { color: #111; }
+
+/* ---------- utility bar (top strip) ---------- */
+.tn-util {
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap;
+  padding: .5rem 0; border-bottom: 1px solid var(--tn-rule);
+  font-size: .8rem; color: #3b3b3b;
+}
+.tn-util b { color: var(--tn-navy); }
+.tn-util a { color: var(--tn-link); }
+.tn-util .tn-dot { color: #2e7d32; }
+.tn-util .tn-dot.off { color: #c62828; }
+
+/* ---------- header: brand + search ---------- */
+.tn-brand { display: flex; align-items: center; gap: .9rem; padding: .8rem 0; }
+.tn-brand img { width: 66px; height: 66px; flex: none; }
+.tn-ta { font-weight: 500; font-size: 1.3rem; color: #111; line-height: 1.3; }
+.tn-en { font-weight: 700; font-size: 1.25rem; color: #111; line-height: 1.3; }
+.tn-stats { text-align: right; font-size: .82rem; color: #3b3b3b; line-height: 1.5; }
+.tn-stats b { color: var(--tn-navy); font-size: 1.15rem; }
+
+.st-key-q [data-testid="stTextInputRootElement"] {
+  background-color: #fff;
+  border: 1px solid #cfcfcf;
+  border-bottom: 4px solid var(--tn-navy);
+  border-radius: 8px 8px 0 0;
+  min-height: 3rem;
+  /* Keep this file free of literal angle brackets (even in comments): the HTML sanitizer drops the whole style block. */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23162f6a' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M20 20l-4-4'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right .8rem center; background-size: 1.3rem;
+}
+.st-key-q input { font-size: 1rem; padding-right: 2.8rem; }
+.st-key-q input::placeholder { color: #6b7280; opacity: 1; }
+
+/* ---------- nav bar (segmented control restyled as a menu) ---------- */
+.st-key-navbar { border-top: 1px solid var(--tn-rule); border-bottom: 1px solid var(--tn-rule); margin-top: .1rem; }
+.st-key-nav [role="radiogroup"] { gap: 0; background: transparent; padding: 0; }
+.st-key-nav button[role="radio"] {
+  background: transparent !important; border: 0 !important; border-radius: 0 !important;
+  box-shadow: none !important; color: #111; font-weight: 500; font-size: .98rem;
+  padding: .85rem 1.2rem; height: auto; min-height: 0;
+}
+.st-key-nav button[role="radio"]:hover { color: var(--tn-link); }
+.st-key-nav button[role="radio"][aria-checked="true"] {
+  color: var(--tn-navy); font-weight: 700; box-shadow: inset 0 -4px 0 var(--tn-navy) !important;
+}
+
+/* ---------- banner ---------- */
+.st-key-banner img { width: 100%; display: block; }
+
+/* ---------- breadcrumb ---------- */
+.st-key-crumb { margin-top: .3rem; }
+.st-key-crumb button { padding: 0; min-height: 0; }
+.st-key-crumb button p { color: var(--tn-link) !important; font-size: 1rem; font-weight: 500; }
+.st-key-crumb p { margin: 0; color: #111; font-size: 1rem; }
+
+/* ---------- filter card ---------- */
+.st-key-filters {
+  border: 0 !important; border-radius: 14px !important; background: #fff;
+  box-shadow: 0 2px 14px rgba(20, 40, 90, .12); padding: .35rem .6rem;
+}
+.st-key-filters label p, .tn-flabel { color: var(--tn-navy); font-size: 1.02rem; font-weight: 500; }
+.st-key-filters [data-baseweb="select"] > div {
+  border-radius: 999px; border: 1px solid #dcdcdc; min-height: 2.7rem; background: #fff;
+}
+.st-key-filters button[kind^="primary"], .st-key-filters button[data-testid^="stBaseButton-primary"] {
+  background: var(--tn-blue); border-color: var(--tn-blue); padding: .5rem 1.5rem; font-weight: 600;
+}
+
+/* ---------- results table ---------- */
+.tn-bar {
+  display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+  background: var(--tn-navy); color: #fff; padding: .85rem 1.1rem;
+  border-radius: 8px 8px 0 0; font-weight: 700; font-size: 1.15rem;
+}
+.tn-bar .tn-count { font-weight: 500; font-size: .88rem; opacity: .92; }
+.st-key-results { margin-top: .6rem; }
+
+/* ---------- detail panel ---------- */
+.st-key-detail { border-left: 5px solid var(--tn-navy) !important; border-radius: 8px !important; }
+
+/* ---------- footer ---------- */
+.tn-footer {
+  background: var(--tn-navy); color: #e8eefc; padding: 1.1rem 1.3rem; border-radius: 8px;
+  margin-top: 1.8rem; font-size: .85rem; line-height: 1.7;
+}
+.tn-footer a { color: #fff; text-decoration: underline; }
+.tn-footer b { color: #fff; }
+
+@media (max-width: 640px) {
+  .tn-ta, .tn-en { font-size: 1.05rem; }
+  .tn-brand img { width: 48px; height: 48px; }
+  .tn-stats { text-align: left; }
+  .st-key-nav button { padding: .7rem .7rem; font-size: .9rem; }
+}

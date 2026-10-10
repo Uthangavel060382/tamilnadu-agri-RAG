@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+playwright
+beautifulsoup4
+pypdf
+chromadb
+sentence-transformers
