@@ -410,7 +410,8 @@ def page_schemes(schemes: list[dict]):
         heading = f"Schemes matching “{short(q, 60)}”"
     else:
         cards = sorted(schemes, key=lambda s: (s["jurisdiction"], s["category"], s["name"]))
-        heading = "All schemes"
+        active = [x for x in (cat if cat != ALL_CATS else None, who if who != ALL_LEVELS else None) if x]
+        heading = "Schemes: " + ", ".join(active) if active else "All schemes"
     cards = [c for c in cards if cat in (ALL_CATS, c["category"]) and who in (ALL_LEVELS, c["jurisdiction"])]
 
     with st.container(key="results"):

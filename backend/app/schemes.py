@@ -16,15 +16,16 @@ from .vectorstore import add_chunks
 
 
 def load_records(include_all: bool = False) -> list[dict]:
-    """All records from data/schemes/*.json, each annotated with its file's source_url / vintage.
+    """All records from data/schemes/*.json. A record's own source_url / vintage wins; otherwise the file's are used.
     By default only jurisdictions listed in INCLUDE_JURISDICTIONS are returned."""
     out = []
     for path in sorted(SCHEMES_DIR.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         for rec in data.get("records", []):
             if include_all or rec.get("jurisdiction") in INCLUDE_JURISDICTIONS:
-                out.append({**rec, "source_url": data.get("source_url", ""),
-                            "vintage": data.get("vintage", "")})
+                out.append({**rec,
+                            "source_url": rec.get("source_url") or data.get("source_url", ""),
+                            "vintage": rec.get("vintage") or data.get("vintage", "")})
     return out
 
 
